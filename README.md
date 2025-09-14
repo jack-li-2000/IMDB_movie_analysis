@@ -4,6 +4,8 @@ Summary
 
 This project explores relationships between various movie attributes (e.g., budget, revenue, ratings, runtime) using an IMDB dataset. The goal is to identify which factors most strongly correlate with a movie’s financial and critical success. The analysis was conducted in Python using Jupyter Notebook, with a focus on data cleaning, exploratory data analysis (EDA), and correlation visualization.
 
+<img width="897" height="226" alt="image" src="https://github.com/user-attachments/assets/5c12c46f-8d91-43f1-ab93-0b58e4db6ad9" />
+
 Hypothesis
 
 * Higher budgets are positively correlated with higher box office revenue.
